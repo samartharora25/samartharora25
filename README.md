@@ -24,15 +24,13 @@
   <a href="https://github.com/samartharora25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://leetcode.com/u/GrindLord">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
+ 
   <a href="mailto:samarth.arora7official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/samartharora25/samartharora25/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
@@ -129,18 +127,6 @@ A Sarcasm-Aware Mamba-TFT framework that fuses Temporal Fusion Transformers, Mam
 - Mentored 200+ students through workshops, study jams, and project-based learning
 - Curated 8 industry-expert tech talks (70+ attendees per session), driving a 21% uplift in positive community sentiment
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=samartharora25&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samartharora25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samartharora25&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samartharora25&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![Samarth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samartharora25&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -158,7 +144,7 @@ I'm always happy to talk about:
 - 📧 [samarth.arora7official@gmail.com](mailto:samarth.arora7official@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samarth-arora-489b79246)
 - 💻 [GitHub](https://github.com/samartharora25)
-- 🧮 [LeetCode](https://leetcode.com/u/GrindLord)
+  
 
 ---
 
